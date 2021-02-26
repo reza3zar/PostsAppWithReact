@@ -1,0 +1,25 @@
+.backgroundContain{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.spaceTop{
+    margin-top: 4em;
+}
+ 
+
+.marginCard{
+  margin: 1em;
+}
+
+.cardCustomize{
+  max-width: 300px;
+}
+
+.maxCardBody{
+  height: 200px;
+}
+
+.error{
+  color:red;
+}
